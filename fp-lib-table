@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "BatteryBox")(type "KiCad")(uri "/home/carl/BatteryBox.pretty")(options "")(descr ""))
+)
